@@ -1,2 +1,2 @@
 # Java-DSA
-My portfolio website built with HTML, CSS, and JavaScript
+This repository contains Java solutions for Data Structures and Algorithms problems
